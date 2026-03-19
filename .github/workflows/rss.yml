@@ -1,5 +1,8 @@
 name: Generate RSS
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 7 * * *'
