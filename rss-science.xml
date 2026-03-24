@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Mon, 23 Mar 2026 06:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:00:47 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,28 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Launching AI data centers into orbit</title>
+      <link>https://www.spreaker.com/episode/launching-ai-data-centers-into-orbit--70819174</link>
+      <description>Musk’s Terafab &amp;amp; the 170-Meter AI Satellites: The Battle for Orbit | SpaceX vs. Blue Origin&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Fresh off the March 21 event in Austin, Texas, Elon Musk has unveiled the "missing ingredient" for his orbital empire: &lt;b&gt;Terafab&lt;/b&gt;,. In today’s episode, we break down SpaceX’s plan to produce &lt;b&gt;one terawatt of processors annually&lt;/b&gt;—50 times the current global output—to power a constellation of up to &lt;b&gt;one million satellites&lt;/b&gt;,.&lt;br /&gt;We dive into the mind-blowing specs of the &lt;b&gt;"AI Sat Mini"&lt;/b&gt;: a spacecraft that, at &lt;b&gt;170 meters long&lt;/b&gt;, towers over even the Starship V3,. We discuss the new &lt;b&gt;D3 chips&lt;/b&gt; optimized for radiation and heat,, and why Musk claims space-based AI will be more cost-effective than Earth-based data centers in just 30 months,. Plus, we analyze the "Space Race 2.0" as Jeff Bezos’ &lt;b&gt;Blue Origin&lt;/b&gt; strikes back with &lt;b&gt;Project Sunrise&lt;/b&gt;, a 51,600-satellite rival network,. Is this the "Netscape moment" for the space economy, or are we turning our atmosphere into a "satellite crematorium"?,.&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/70819174</guid>
+      <pubDate>Mon, 23 Mar 2026 06:00:03 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70819174/launching_ai_data_centers_into_orbit.mp3" length="2185388" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/03b84af5-c54c-4be5-86f6-00cc4bc8608c/03b84af5-c54c-4be5-86f6-00cc4bc8608c.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/03b84af5-c54c-4be5-86f6-00cc4bc8608c/03b84af5-c54c-4be5-86f6-00cc4bc8608c.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/03b84af5-c54c-4be5-86f6-00cc4bc8608c/03b84af5-c54c-4be5-86f6-00cc4bc8608c.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>Musk’s Terafab &amp;amp; the 170-Meter AI Satellites: The Battle for Orbit | SpaceX vs. Blue Origin
+
+Fresh off the March 21 event in Austin, Texas, Elon Musk has unveiled the "missing ingredient" for his orbital empire: Terafab,. In today’s episode, we...</itunes:subtitle>
+      <itunes:summary>Musk’s Terafab &amp;amp; the 170-Meter AI Satellites: The Battle for Orbit | SpaceX vs. Blue Origin&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Fresh off the March 21 event in Austin, Texas, Elon Musk has unveiled the "missing ingredient" for his orbital empire: &lt;b&gt;Terafab&lt;/b&gt;,. In today’s episode, we break down SpaceX’s plan to produce &lt;b&gt;one terawatt of processors annually&lt;/b&gt;—50 times the current global output—to power a constellation of up to &lt;b&gt;one million satellites&lt;/b&gt;,.&lt;br /&gt;We dive into the mind-blowing specs of the &lt;b&gt;"AI Sat Mini"&lt;/b&gt;: a spacecraft that, at &lt;b&gt;170 meters long&lt;/b&gt;, towers over even the Starship V3,. We discuss the new &lt;b&gt;D3 chips&lt;/b&gt; optimized for radiation and heat,, and why Musk claims space-based AI will be more cost-effective than Earth-based data centers in just 30 months,. Plus, we analyze the "Space Race 2.0" as Jeff Bezos’ &lt;b&gt;Blue Origin&lt;/b&gt; strikes back with &lt;b&gt;Project Sunrise&lt;/b&gt;, a 51,600-satellite rival network,. Is this the "Netscape moment" for the space economy, or are we turning our atmosphere into a "satellite crematorium"?,.&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>137</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>South Korea Finds a Baby Doolysaurus</title>
       <link>https://www.spreaker.com/episode/south-korea-finds-a-baby-doolysaurus--70764180</link>
