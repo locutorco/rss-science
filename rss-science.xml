@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Sun, 29 Mar 2026 14:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:01:52 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,27 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>NASA Scraps Gateway for Nuclear Mars Ships</title>
+      <link>https://www.spreaker.com/episode/nasa-scraps-gateway-for-nuclear-mars-ships--70911272</link>
+      <description>&lt;b&gt;NASA’s $20B Pivot: Moon Bases, Nuclear Rockets, and the New Space Race&lt;/b&gt;&lt;br /&gt;NASA has officially scrapped the Lunar Gateway orbital station to go "all-in" on the lunar surface. In this episode, we break down Administrator Jared Isaacman’s "Ignition" initiative: a $20 billion roadmap to build a permanent moon base and return American boots to the lunar soil before the end of President Trump’s term. We also explore the shock announcement of &lt;b&gt;Space Reactor-1 Freedom&lt;/b&gt;, a nuclear-powered spacecraft set to launch for Mars by 2028. With Artemis II scheduled for liftoff tomorrow, is the U.S. finally ready to beat China to a permanent lunar settlement? We analyze the risks, the costs, and the future of deep space exploration.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/70911272</guid>
+      <pubDate>Tue, 31 Mar 2026 06:00:02 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70911272/nasa_scraps_gateway_for_nuclear_mars_ships.mp3" length="2074796" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/961bba2d-8dfa-4aa1-8776-82bba6f8ee10/961bba2d-8dfa-4aa1-8776-82bba6f8ee10.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/961bba2d-8dfa-4aa1-8776-82bba6f8ee10/961bba2d-8dfa-4aa1-8776-82bba6f8ee10.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/961bba2d-8dfa-4aa1-8776-82bba6f8ee10/961bba2d-8dfa-4aa1-8776-82bba6f8ee10.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>NASA’s $20B Pivot: Moon Bases, Nuclear Rockets, and the New Space Race
+NASA has officially scrapped the Lunar Gateway orbital station to go "all-in" on the lunar surface. In this episode, we break down Administrator Jared Isaacman’s "Ignition"...</itunes:subtitle>
+      <itunes:summary>&lt;b&gt;NASA’s $20B Pivot: Moon Bases, Nuclear Rockets, and the New Space Race&lt;/b&gt;&lt;br /&gt;NASA has officially scrapped the Lunar Gateway orbital station to go "all-in" on the lunar surface. In this episode, we break down Administrator Jared Isaacman’s "Ignition" initiative: a $20 billion roadmap to build a permanent moon base and return American boots to the lunar soil before the end of President Trump’s term. We also explore the shock announcement of &lt;b&gt;Space Reactor-1 Freedom&lt;/b&gt;, a nuclear-powered spacecraft set to launch for Mars by 2028. With Artemis II scheduled for liftoff tomorrow, is the U.S. finally ready to beat China to a permanent lunar settlement? We analyze the risks, the costs, and the future of deep space exploration.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>130</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Launching AI data centers into orbit</title>
       <link>https://www.spreaker.com/episode/launching-ai-data-centers-into-orbit--70819174</link>
