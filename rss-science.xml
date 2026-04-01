@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Mon, 30 Mar 2026 06:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:02:39 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,28 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Earth s magnetic shield protects moon astronauts</title>
+      <link>https://www.spreaker.com/episode/earth-s-magnetic-shield-protects-moon-astronauts--70944021</link>
+      <description>The Moon’s Secret Shield: Why Artemis II is Safer Than We Thought&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;As &lt;b&gt;Artemis II&lt;/b&gt; prepares for its historic launch today, April 1st, a bombshell discovery has just changed how we view lunar exploration. Data from China’s &lt;b&gt;Chang’e-4 lander&lt;/b&gt; has revealed a previously unknown &lt;b&gt;"radiation cavity"&lt;/b&gt; near the Moon. It turns out that Earth’s magnetic field reaches much further into space than anyone expected, creating a protective "shadow" that deflects dangerous cosmic rays.&lt;br /&gt;In this episode, we dive into why being a "morning person" on the Moon could save an astronaut's life. We analyze the &lt;b&gt;20% drop in radiation&lt;/b&gt; detected during the lunar morning and how mission planners can use this two-day window in the lunar cycle to protect the crew’s health. Join us as we explore this "magnetic shadow" and what it means for the future of permanent Moon bases and the safety of the pioneers heading back to our nearest neighbor today.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/70944021</guid>
+      <pubDate>Wed, 01 Apr 2026 06:00:02 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70944021/earth_s_magnetic_shield_protects_moon_astronauts.mp3" length="1966508" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/86097d0f-e16e-4d0b-9ff6-eb98576855b1/86097d0f-e16e-4d0b-9ff6-eb98576855b1.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/86097d0f-e16e-4d0b-9ff6-eb98576855b1/86097d0f-e16e-4d0b-9ff6-eb98576855b1.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/86097d0f-e16e-4d0b-9ff6-eb98576855b1/86097d0f-e16e-4d0b-9ff6-eb98576855b1.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>The Moon’s Secret Shield: Why Artemis II is Safer Than We Thought
+
+As Artemis II prepares for its historic launch today, April 1st, a bombshell discovery has just changed how we view lunar exploration. Data from China’s Chang’e-4 lander has revealed a...</itunes:subtitle>
+      <itunes:summary>The Moon’s Secret Shield: Why Artemis II is Safer Than We Thought&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;As &lt;b&gt;Artemis II&lt;/b&gt; prepares for its historic launch today, April 1st, a bombshell discovery has just changed how we view lunar exploration. Data from China’s &lt;b&gt;Chang’e-4 lander&lt;/b&gt; has revealed a previously unknown &lt;b&gt;"radiation cavity"&lt;/b&gt; near the Moon. It turns out that Earth’s magnetic field reaches much further into space than anyone expected, creating a protective "shadow" that deflects dangerous cosmic rays.&lt;br /&gt;In this episode, we dive into why being a "morning person" on the Moon could save an astronaut's life. We analyze the &lt;b&gt;20% drop in radiation&lt;/b&gt; detected during the lunar morning and how mission planners can use this two-day window in the lunar cycle to protect the crew’s health. Join us as we explore this "magnetic shadow" and what it means for the future of permanent Moon bases and the safety of the pioneers heading back to our nearest neighbor today.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>123</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>NASA Scraps Gateway for Nuclear Mars Ships</title>
       <link>https://www.spreaker.com/episode/nasa-scraps-gateway-for-nuclear-mars-ships--70911272</link>
