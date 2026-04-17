@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Wed, 15 Apr 2026 11:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:01:34 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,28 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Tiny black holes solve dark matter mystery</title>
+      <link>https://www.spreaker.com/episode/tiny-black-holes-solve-dark-matter-mystery--71354598</link>
+      <description>Dark Matter Solved? The Primordial Black Hole Discovery | Was There a Universe Before Ours?&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Did the 50-year mystery of dark matter just get solved? In today’s episode, we dive into a groundbreaking signal detected by &lt;b&gt;LIGO&lt;/b&gt;: a collision involving a black hole with &lt;b&gt;less mass than the Sun&lt;/b&gt;—an object that conventional physics says shouldn't exist.&lt;br /&gt;We explore the theory that dark matter isn't an exotic particle, but billions of tiny &lt;b&gt;primordial black holes&lt;/b&gt; forged in the first second after the Big Bang. We also discuss the mind-bending &lt;b&gt;"Bounce" theory&lt;/b&gt;, which suggests our universe was born from the collapse of a previous one, leaving "relic" black holes behind. Join us as we analyze how the &lt;b&gt;James Webb Space Telescope’s&lt;/b&gt; "little red dots" are proving that these cosmic monsters formed before the first stars, potentially rewriting the history of the cosmos.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/71354598</guid>
+      <pubDate>Thu, 16 Apr 2026 11:00:04 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/71354598/tiny_black_holes_solve_dark_matter_mystery.mp3" length="2115884" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/c12d26f5-85c9-4194-a535-8788bfa50863/c12d26f5-85c9-4194-a535-8788bfa50863.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/c12d26f5-85c9-4194-a535-8788bfa50863/c12d26f5-85c9-4194-a535-8788bfa50863.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/c12d26f5-85c9-4194-a535-8788bfa50863/c12d26f5-85c9-4194-a535-8788bfa50863.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>Dark Matter Solved? The Primordial Black Hole Discovery | Was There a Universe Before Ours?
+
+Did the 50-year mystery of dark matter just get solved? In today’s episode, we dive into a groundbreaking signal detected by LIGO: a collision involving a...</itunes:subtitle>
+      <itunes:summary>Dark Matter Solved? The Primordial Black Hole Discovery | Was There a Universe Before Ours?&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Did the 50-year mystery of dark matter just get solved? In today’s episode, we dive into a groundbreaking signal detected by &lt;b&gt;LIGO&lt;/b&gt;: a collision involving a black hole with &lt;b&gt;less mass than the Sun&lt;/b&gt;—an object that conventional physics says shouldn't exist.&lt;br /&gt;We explore the theory that dark matter isn't an exotic particle, but billions of tiny &lt;b&gt;primordial black holes&lt;/b&gt; forged in the first second after the Big Bang. We also discuss the mind-bending &lt;b&gt;"Bounce" theory&lt;/b&gt;, which suggests our universe was born from the collapse of a previous one, leaving "relic" black holes behind. Join us as we analyze how the &lt;b&gt;James Webb Space Telescope’s&lt;/b&gt; "little red dots" are proving that these cosmic monsters formed before the first stars, potentially rewriting the history of the cosmos.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>133</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Google Nobels and Machine Consciousness</title>
       <link>https://www.spreaker.com/episode/google-nobels-and-machine-consciousness--71331404</link>
