@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Wed, 13 May 2026 10:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:03:13 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,26 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Starship V3 and Orbital Data Centers</title>
+      <link>https://www.spreaker.com/episode/starship-v3-and-orbital-data-centers--71990147</link>
+      <description>SpaceX is about to make history—again. In this episode, we break down everything you need to know about &lt;b&gt;Flight 12&lt;/b&gt;, the long-awaited debut of &lt;b&gt;Starship Version 3 (V3)&lt;/b&gt;. Standing at a record-breaking height and powered by the revolutionary &lt;b&gt;Raptor 3 engines&lt;/b&gt;, this "megarocket" boasts a staggering &lt;b&gt;18 million pounds of thrust&lt;/b&gt;—10% more than its predecessor. We explore the mission’s critical goals: launching from the brand-new &lt;b&gt;Pad 2&lt;/b&gt;, testing a simplified heat shield, and why NASA is counting on this V3 iteration to put boots back on the Moon. Plus, we discuss the financial buzz as &lt;b&gt;Cathie Wood’s ARK Invest&lt;/b&gt; eyes a potential SpaceX IPO and the future of "orbital data centers".&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/71990147</guid>
+      <pubDate>Thu, 14 May 2026 10:00:02 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/71990147/starship_v3_and_orbital_data_centers.mp3" length="2044460" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/67b0b72e-9d10-4c11-a40c-876231b955c3/67b0b72e-9d10-4c11-a40c-876231b955c3.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/67b0b72e-9d10-4c11-a40c-876231b955c3/67b0b72e-9d10-4c11-a40c-876231b955c3.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/67b0b72e-9d10-4c11-a40c-876231b955c3/67b0b72e-9d10-4c11-a40c-876231b955c3.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>SpaceX is about to make history—again. In this episode, we break down everything you need to know about Flight 12, the long-awaited debut of Starship Version 3 (V3). Standing at a record-breaking height and powered by the revolutionary Raptor 3...</itunes:subtitle>
+      <itunes:summary>SpaceX is about to make history—again. In this episode, we break down everything you need to know about &lt;b&gt;Flight 12&lt;/b&gt;, the long-awaited debut of &lt;b&gt;Starship Version 3 (V3)&lt;/b&gt;. Standing at a record-breaking height and powered by the revolutionary &lt;b&gt;Raptor 3 engines&lt;/b&gt;, this "megarocket" boasts a staggering &lt;b&gt;18 million pounds of thrust&lt;/b&gt;—10% more than its predecessor. We explore the mission’s critical goals: launching from the brand-new &lt;b&gt;Pad 2&lt;/b&gt;, testing a simplified heat shield, and why NASA is counting on this V3 iteration to put boots back on the Moon. Plus, we discuss the financial buzz as &lt;b&gt;Cathie Wood’s ARK Invest&lt;/b&gt; eyes a potential SpaceX IPO and the future of "orbital data centers".&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>128</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Russian Progress 95 Restores ISS Supplies</title>
       <link>https://www.spreaker.com/episode/russian-progress-95-restores-iss-supplies--71662210</link>
