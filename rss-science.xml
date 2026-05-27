@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Mon, 25 May 2026 01:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:24:59 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -26,6 +26,28 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>NASA s twenty billion dollar moon city plan</title>
+      <link>https://www.spreaker.com/episode/nasa-s-twenty-billion-dollar-moon-city-plan--72177626</link>
+      <description>NASA’s $20B Moon Base: Blue Origin Beats SpaceX for the First Mission | The Golden Age of Exploration&lt;br /&gt;&lt;br /&gt;Is the Moon about to become the next great American city? On &lt;b&gt;May 26, 2026&lt;/b&gt;, NASA Administrator &lt;b&gt;Jared Isaacman&lt;/b&gt; unveiled a bold, three-phase plan to establish a permanent lunar presence at the South Pole. In today’s episode, we break down the shock announcement: &lt;b&gt;Jeff Bezos’s Blue Origin&lt;/b&gt; has been selected to conduct "Moon Base One," the first privately funded cargo mission to the Shackleton de Gerlache Ridge, scheduled for this fall.&lt;br /&gt;&lt;br /&gt;We dive into the &lt;b&gt;NASA reorganization&lt;/b&gt;, which merges human spaceflight and technology directorates to eliminate bureaucracy and accelerate the timeline ahead of China’s 2030 goals. We analyze the "science of survival" in environments reaching -400°C, the deployment of &lt;b&gt;nuclear reactors&lt;/b&gt; on the lunar surface, and the new fleet of autonomous rovers from Lunar Outpost and Astrolab. Join us as we explore how this iterative approach—leveraging the 1960s playbook—aims to turn the Moon into a jumping-off point for Mars.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/72177626</guid>
+      <pubDate>Wed, 27 May 2026 10:00:03 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72177626/nasa_s_twenty_billion_dollar_moon_city_plan.mp3" length="2124716" type="audio/mpeg"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/53efc5b7-b08d-4c74-a6bc-e111049eba94/53efc5b7-b08d-4c74-a6bc-e111049eba94.srt" type="application/x-subrip" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/53efc5b7-b08d-4c74-a6bc-e111049eba94/53efc5b7-b08d-4c74-a6bc-e111049eba94.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://transcription.spreaker.com/starship/53efc5b7-b08d-4c74-a6bc-e111049eba94/53efc5b7-b08d-4c74-a6bc-e111049eba94.vtt" type="text/vtt" language="en"/>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:author>@LocutorCo</itunes:author>
+      <itunes:subtitle>NASA’s $20B Moon Base: Blue Origin Beats SpaceX for the First Mission | The Golden Age of Exploration
+
+Is the Moon about to become the next great American city? On May 26, 2026, NASA Administrator Jared Isaacman unveiled a bold, three-phase plan to...</itunes:subtitle>
+      <itunes:summary>NASA’s $20B Moon Base: Blue Origin Beats SpaceX for the First Mission | The Golden Age of Exploration&lt;br /&gt;&lt;br /&gt;Is the Moon about to become the next great American city? On &lt;b&gt;May 26, 2026&lt;/b&gt;, NASA Administrator &lt;b&gt;Jared Isaacman&lt;/b&gt; unveiled a bold, three-phase plan to establish a permanent lunar presence at the South Pole. In today’s episode, we break down the shock announcement: &lt;b&gt;Jeff Bezos’s Blue Origin&lt;/b&gt; has been selected to conduct "Moon Base One," the first privately funded cargo mission to the Shackleton de Gerlache Ridge, scheduled for this fall.&lt;br /&gt;&lt;br /&gt;We dive into the &lt;b&gt;NASA reorganization&lt;/b&gt;, which merges human spaceflight and technology directorates to eliminate bureaucracy and accelerate the timeline ahead of China’s 2030 goals. We analyze the "science of survival" in environments reaching -400°C, the deployment of &lt;b&gt;nuclear reactors&lt;/b&gt; on the lunar surface, and the new fleet of autonomous rovers from Lunar Outpost and Astrolab. Join us as we explore how this iterative approach—leveraging the 1960s playbook—aims to turn the Moon into a jumping-off point for Mars.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This episode includes AI-generated content.</itunes:summary>
+      <itunes:duration>133</itunes:duration>
+      <itunes:keywords>science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cae2dddcafef2405d23e3cd41c2d50c7.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Starship V3 and Orbital Data Centers</title>
       <link>https://www.spreaker.com/episode/starship-v3-and-orbital-data-centers--71990147</link>
