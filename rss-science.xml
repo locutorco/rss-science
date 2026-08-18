@@ -13,7 +13,7 @@
       <title>SciTech Brief</title>
       <link>https://www.spreaker.com/podcast/scitech-brief--6846358</link>
     </image>
-    <lastBuildDate>Fri, 14 Aug 2026 09:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:35:14 +0000</lastBuildDate>
     <itunes:author>@LocutorCo</itunes:author>
     <itunes:owner>
       <itunes:name>@LocutorCo</itunes:name>
@@ -24,6 +24,7 @@
     <itunes:summary>Daily science, technology and digital culture — in minutes.</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <podcast:guid>5aec10b1-bc57-5542-af90-0562811df24e</podcast:guid>
     <podcast:txt purpose="ai-content">true</podcast:txt>
     <itunes:type>episodic</itunes:type>
     <item>
